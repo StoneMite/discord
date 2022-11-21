@@ -1,0 +1,8 @@
+from classprofile import Profile
+
+
+def main():
+    profile=Profile(4536,'друr','друrrr.jpg','16/10/18','avgz2002@gmail.com','true','connected')
+    profile.print()
+
+main()
